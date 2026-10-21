@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "login": "zyzya0",
+  "seed": "#5AC824",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "zyzya",
+    "subtitle": "a little programmer.",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Minsk"
+      },
+      {
+        "icon": "code",
+        "label": "C · Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Coder, 12 years old."
+      },
+      {
+        "icon": "brand:twitch",
+        "label": "Love streaming."
+      },
+      {
+        "icon": "android",
+        "label": "Phone: Samsung A13"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:claudecode",
+            "label": "AI"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [],
+    "overrides": {
+      "pixel-garden": {
+        "shape": "soft"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:github",
+        "url": "github.com/zyzya67"
+      },
+      {
+        "icon": "brand:twitch",
+        "url": "https://www.twitch.tv/zyzya_king"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://dulcet-duckanoo-1b900f.netlify.app",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/zyzya67?tab=repositories",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
