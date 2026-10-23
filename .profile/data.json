@@ -1,10 +1,14 @@
 {
- "key": "b73a241b",
+ "key": "6af28b5f",
  "stars": 0,
- "contributions": 5,
- "repos": 2,
+ "contributions": 10,
+ "repos": 3,
  "followers": 0,
  "languages": [
+  [
+   "C",
+   31707
+  ],
   [
    "Python",
    840
@@ -112,7 +116,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 6,
     "day": 23,
     "today": true
    },
@@ -125,6 +129,15 @@
  },
  "pins": [],
  "all": [
+  {
+   "name": "nix-search",
+   "url": "https://github.com/zyzya0/nix-search",
+   "text": "very simple utility for searching packages in nixpkgs writen on C. made in one evening",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
   {
    "name": "archer",
    "url": "https://github.com/zyzya0/archer",
