@@ -1,6 +1,6 @@
 {
- "key": "41b22eef",
- "stars": 0,
+ "key": "db7b8acf",
+ "stars": 1,
  "contributions": 12,
  "repos": 3,
  "followers": 0,
@@ -138,7 +138,7 @@
    "url": "https://github.com/zyzya0/nix-search",
    "text": "very simple utility for searching packages in nixpkgs writen on C. made in one evening",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "C",
    "topics": []
   },
