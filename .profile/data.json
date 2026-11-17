@@ -1,5 +1,5 @@
 {
- "key": "672d265b",
+ "key": "bdbcc4dc",
  "stars": 1,
  "contributions": 44,
  "repos": 5,
@@ -102,9 +102,13 @@
    {
     "c": 0,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
